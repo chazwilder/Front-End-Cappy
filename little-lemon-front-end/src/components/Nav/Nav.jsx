@@ -9,9 +9,8 @@ import { useStyles } from './styles'
 const Nav = () => {
   const classes = useStyles()
   const pages = [{name:'Home', link:'/'}, {name:'About', link:'#About'}, {name:'Menu', link:'#Menu'}
-  ,{name:'Reservations', link:'#Reservations'}, {name:'Order Online', link:'#Order'},{name:'Login', link:'#Login'}]
+  ,{name:'Reservations', link:'/book'}, {name:'Order Online', link:'#Order'},{name:'Login', link:'#Login'}]
 
-  console.log(pages)
   return (
     <>
     <AppBar position="fixed" style={{ background: '#edefee' }} elevation={0} width={'100%'}>

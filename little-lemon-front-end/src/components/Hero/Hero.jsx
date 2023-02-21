@@ -18,7 +18,7 @@ const Hero = () => {
             We are a family owned Mediterranean restaurant, focused on traditional recipes served with a modern twist.
             </p>
             <div style={{marginTop: '2em'}}>
-            <Button style={{ background: '#F4CE14',fontFamily: 'Markazi Text',fontWeight: 'bold', color:'black', width:'50%' }}>
+            <Button href="/book" style={{ background: '#F4CE14',fontFamily: 'Markazi Text',fontWeight: 'bold', color:'black', width:'50%' }}>
                 Reserve A Table
             </Button>
             </div>
