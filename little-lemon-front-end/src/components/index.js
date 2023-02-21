@@ -6,3 +6,6 @@ export {default as Hero} from './Hero/Hero';
 export {default as Specials} from './Specials/Specials';
 export {default as Reviews} from './Reviews/Reviews';
 export {default as About} from './About/About';
+export {default as Reservations} from './Reservations/Reservations';
+export {default as Bookings} from './Bookings/Bookings';
+export {default as BookingForm} from './BookingForm/BookingForm';

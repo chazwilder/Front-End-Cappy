@@ -1,0 +1,36 @@
+{
+  "bookings": [
+    {
+      "id": 1,
+      "dt": "2023-02-21",
+      "dttm": "19:00",
+      "email": "cwilder@chazwilder.onmicrosoft.com",
+      "guests": 2,
+      "occasion": "Birthday"
+    },
+    {
+      "email": "cwilder@chazwilder.onmicrosoft.com",
+      "dt": "2023-02-24",
+      "dttm": "17:00",
+      "guests": 5,
+      "occasion": "",
+      "id": 2
+    },
+    {
+      "email": "cwilder@chazwilder.onmicrosoft.com",
+      "dt": "2023-02-09",
+      "dttm": "18:00",
+      "guests": 5,
+      "occasion": "Anniversary",
+      "id": 3
+    },
+    {
+      "email": "test@littlelemon.com",
+      "dt": "2023-02-03",
+      "dttm": "19:00",
+      "guests": 2,
+      "occasion": "",
+      "id": 4
+    }
+  ]
+}
